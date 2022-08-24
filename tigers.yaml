@@ -1,14 +1,9 @@
 team : Tigers
 
-<<<<<<< HEAD
-manager: Keeneth
+manager: Brenda
 
 coach: Grace
-=======
-manager: Deborail
->>>>>>> conflict-1
 
-coach : Graces
 members:
 - Linda
 - William
