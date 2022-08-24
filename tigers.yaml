@@ -1,8 +1,12 @@
 team : Tigers
 
+<<<<<<< HEAD
 manager: Keeneth
 
 coach: Grace
+=======
+manager: Deborail
+>>>>>>> conflict-1
 
 coach : Graces
 members:
